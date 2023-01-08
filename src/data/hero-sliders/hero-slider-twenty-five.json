@@ -1,0 +1,37 @@
+[{
+  "id": 1,
+  "title": "Crops Safety",
+  "subtitle": "protect your crops from bad weather and pests",
+  "image": "/assets/img/slider/slide7.jpg",
+  "url": "/shop-grid-standard"
+},
+  {
+    "id": 2,
+    "title": "Covid - 19 Collection",
+    "subtitle": "Medicine & PPE Stay Safe",
+    "image": "/assets/img/slider/slide3.jpg",
+    "url": "/shop-grid-standard"
+  },
+ 
+  {
+    "id": 3,
+    "title": "Covid - 19 Collection",
+    "subtitle": "Medicine & PPE Stay Safe",
+    "image": "/assets/img/slider/slide5.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 4,
+    "title": "Covid - 19 Collection",
+    "subtitle": "Medicine & PPE Stay Safe",
+    "image": "/assets/img/slider/slide6.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 5,
+    "title": "Covid - 19 Collection",
+    "subtitle": "Medicine & PPE Stay Safe",
+    "image": "/assets/img/slider/slide4.jpg",
+    "url": "/shop-grid-standard"
+  }
+]
